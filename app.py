@@ -23,7 +23,7 @@ def give_reddit_access():
 @app.route("/reddit_redirect")
 def reddit_redirect():
     print(request.args)
-    if session.get("code"):
+    if request.args.get("code"):
         session["code"] = request.args["code"]
         return "You've managed to get reddit user data"
 
