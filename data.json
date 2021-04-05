@@ -1,0 +1,171 @@
+{
+    "reports": {
+        "b9656v9v": { 
+            "data": [
+                {
+                    "video_watched_100_percent": 50,
+                    "date": "2019-02-16",
+                    "ecpm": 0.25,
+                    "region": "CA",
+                    "video_watched_50_percent": 300,
+                    "lead": {
+                        "click_through_conversions": {
+                            "attribution_window_week": 89,
+                            "attribution_window_month": 351,
+                            "attribution_window_day": 12
+                        },
+                        "view_through_conversions": {
+                            "attribution_window_week": 89,
+                            "attribution_window_month": 351,
+                            "attribution_window_day": 12
+                        }
+                    },
+                    "video_watched_95_percent": 100,
+                    "viewer_comments": 100,
+                    "video_watched_25_percent": 400,
+                    "metro": 641,
+                    "video_viewable_impressions": 1000,
+                    "viewable_impressions": 100,
+                    "legacy_view_conversions": {
+                        "attribution_window_week": 89,
+                        "attribution_window_month": 351,
+                        "attribution_window_day": 12
+                    },
+                    "video_watched_5_seconds": 700,
+                    "purchase": {
+                        "click_through_conversions": {
+                            "attribution_window_week": 89,
+                            "attribution_window_month": 351,
+                            "attribution_window_day": 12
+                        },
+                        "view_through_conversions": {
+                            "attribution_window_week": 89,
+                            "attribution_window_month": 351,
+                            "attribution_window_day": 12
+                        }
+                    },
+                    "comment_upvotes": 1000,
+                    "cpc": 0.25,
+                    "spend": 500000,
+                    "gallery_item_caption": "Caption for this card",
+                    "view_content": {
+                        "click_through_conversions": {
+                            "attribution_window_week": 89,
+                            "attribution_window_month": 351,
+                            "attribution_window_day": 12
+                        },
+                        "view_through_conversions": {
+                            "attribution_window_week": 89,
+                            "attribution_window_month": 351,
+                            "attribution_window_day": 12
+                        }
+                    },
+                    "search": {
+                        "click_through_conversions": {
+                            "attribution_window_week": 89,
+                            "attribution_window_month": 351,
+                            "attribution_window_day": 12
+                        },
+                        "view_through_conversions": {
+                            "attribution_window_week": 89,
+                            "attribution_window_month": 351,
+                            "attribution_window_day": 12
+                        }
+                    },
+                    "ad_id": "573290888102883709",
+                    "video_watched_3_seconds": 900,
+                    "placement": "FEED",
+                    "ctr": 0.03,
+                    "priority": "AUCTION",
+                    "post_id": "t3_abc123",
+                    "video_started": 1000,
+                    "country": "USA",
+                    "account_id": "t2_12345",
+                    "impressions": 50000,
+                    "add_to_cart": {
+                        "click_through_conversions": {
+                            "attribution_window_week": 89,
+                            "attribution_window_month": 351,
+                            "attribution_window_day": 12
+                        },
+                        "view_through_conversions": {
+                            "attribution_window_week": 89,
+                            "attribution_window_month": 351,
+                            "attribution_window_day": 12
+                        }
+                    },
+                    "community": "AskReddit",
+                    "video_watched_10_seconds": 500,
+                    "video_fully_viewable_impressions": 10000,
+                    "gallery_item_id": "231313",
+                    "campaign_id": "579922433862993631",
+                    "comment_downvotes": 1000,
+                    "ad_group_id": "142154364526",
+                    "page_visit": {
+                        "click_through_conversions": {
+                            "attribution_window_week": 89,
+                            "attribution_window_month": 351,
+                            "attribution_window_day": 12
+                        },
+                        "view_through_conversions": {
+                            "attribution_window_week": 89,
+                            "attribution_window_month": 351,
+                            "attribution_window_day": 12
+                        }
+                    },
+                    "interest": "gaming_v2",
+                    "sign_up": {
+                        "click_through_conversions": {
+                            "attribution_window_week": 89,
+                            "attribution_window_month": 351,
+                            "attribution_window_day": 12
+                        },
+                        "view_through_conversions": {
+                            "attribution_window_week": 89,
+                            "attribution_window_month": 351,
+                            "attribution_window_day": 12
+                        }
+                    },
+                    "video_plays_expanded": 10000,
+                    "video_watched_75_percent": 200,
+                    "add_to_wishlist": {
+                        "click_through_conversions": {
+                            "attribution_window_week": 89,
+                            "attribution_window_month": 351,
+                            "attribution_window_day": 12
+                        },
+                        "view_through_conversions": {
+                            "attribution_window_week": 89,
+                            "attribution_window_month": 351,
+                            "attribution_window_day": 12
+                        }
+                    },
+                    "comments_page_views": 1000,
+                    "clicks": 50000,
+                    "video_plays_with_sound": 10000,
+                    "legacy_click_conversions": {
+                        "attribution_window_week": 89,
+                        "attribution_window_month": 351,
+                        "attribution_window_day": 12
+                    }
+                }
+            ]
+        }
+    },
+
+    "campaigns": {
+        "b9656v9v": { 
+            "data": [
+                {
+                    "effective_status": "ACTIVE",
+                    "account_id": "t2_12345",
+                    "name": "My Campaign",
+                    "configured_status": "ACTIVE",
+                    "id": "579922433862993631",
+                    "funding_instrument_id": "123",
+                    "objective": "IMPRESSIONS"
+                }
+            ]
+        }
+    }
+}
